@@ -1,0 +1,14 @@
+*rando.txt* Random string generator for POSIX systems
+
+Author:    Sam Koepnick <sam@koepnick.io>
+License:   MIT
+Repo:      https://github.com/koepnick/johnny_rando
+
+COMMANDS                                                *rando*
+
+This will only work in a modern POSIX environment 
+
+
+
+:Rando <length>   Insert a random string of <length> characters
+
